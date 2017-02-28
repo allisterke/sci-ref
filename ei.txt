@@ -1,0 +1,415 @@
+<RECORD 1>
+Targeted advertising in public transportation systems with quantitative evaluation
+Zhang, Dongxiang (University of Electronic Science and Technology of China, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, China); Guo, Long; Nie, Liqiang; Shao, Jie; Wu, Sai; Shen, Heng Tao Source: ACM Transactions on Information Systems,  v 35, n 3,  January 2017
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 2>
+iGlasses: A novel recommendation system for best-fit glasses
+Gu, Xiaoling (College of Computer Science and Technology, Zhejiang University, China); Shou, Lidan; Peng, Pai; Chen, Ke; Wu, Sai; Chen, Gang Source: SIGIR 2016 - Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval, p 1109-1112,  July 7, 2016,  SIGIR 2016 - Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 3>
+LazyLSH: Approximate nearest neighbor search for multiple distance functions with a single index
+Zheng, Yuxin (School of Computing, National University of Singapore, Singapore, Singapore); Guo, Qi; Tung, Anthony K.H.; Wu, Sai Source: Proceedings of the ACM SIGMOD International Conference on Management of Data,  v 26-June-2016, p 2023-2037,  June 26, 2016,  SIGMOD 2016 - Proceedings of the 2016 International Conference on Management of Data
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 4>
+Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases
+Yao, Chang (National University of Singapore, Singapore); Agrawal, Divyakant; Chen, Gang; Ooi, Beng Chin; Wu, Sai Source: Proceedings of the ACM SIGMOD International Conference on Management of Data,  v 26-June-2016, p 1119-1134,  June 26, 2016,  SIGMOD 2016 - Proceedings of the 2016 International Conference on Management of Data
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 5>
+Personal recommendation using deep recurrent neural networks in NetEase
+Wu, Sai (College of Computer Science and Technology, Zhejiang University, Hangzhou, China); Ren, Weichao; Yu, Chengchao; Chen, Gang; Zhang, Dongxiang; Zhu, Jingbo Source: 2016 IEEE 32nd International Conference on Data Engineering, ICDE 2016, p 1218-1229,  June 22, 2016,  2016 IEEE 32nd International Conference on Data Engineering, ICDE 2016
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 6>
+KISS: Knowing Camera Prototype System for Recognizing and Annotating Places-of-Interest
+Peng, Pai (Key Laboratory of Intelligent Computing Based Big Data of Zhejiang Province, College of Computer Science and Technology, Zhejiang University, Hangzhou, China); Shou, Lidan; Chen, Ke; Chen, Gang; Wu, Sai Source: IEEE Transactions on Knowledge and Data Engineering,  v 28, n 4, p 994-1006,  April 1, 2016
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 7>
+epiC: an extensible and scalable system for processing Big Data
+Jiang, Dawei (School of Computing, National University of Singapore, Singapore, Singapore); Wu, Sai; Chen, Gang; Ooi, Beng Chin; Tan, Kian-Lee; Xu, Jun Source: VLDB Journal,  v 25, n 1, p 3-26,  February 1, 2016
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 8>
+HM: A Column-Oriented MapReduce System on Hybrid Storage
+Wu, Sai (College of Computer Science, Zhejiang University, China); Chen, Gang; Chen, Ke; Li, Feng; Shou, Lidan Source: IEEE Transactions on Knowledge and Data Engineering,  v 27, n 12, p 3304-3317,  December 1, 2015
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 9>
+Cross-scenario eyeglasses retrieval via Egypt model
+Gu, Xiaoling (College of Computer Science and Technology, Zhejiang University, China); Peng, Pai; Li, Mengwen; Wu, Sai; Shou, Lidan; Chen, Gang Source: ICMR 2015 - Proceedings of the 2015 ACM International Conference on Multimedia Retrieval, p 463-466,  June 22, 2015,  ICMR 2015 - Proceedings of the 2015 ACM International Conference on Multimedia Retrieval
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 10>
+Toward the new item problem: Context-enhanced event recommendation in event-based social networks
+Wang, Zhenhua (Huawei Technologies, Hangzhou, China); He, Ping; Shou, Lidan; Chen, Ke; Wu, Sai; Chen, Gang Source: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),  v 9022, p 333-338,  2015
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 11>
+PABIRS: A data access middleware for distributed file systems
+Wu, Sai (College of Computer Science and Technology, Zhejiang University, Hangzhou, China); Chen, Gang; Zhou, Xianke; Zhang, Zhenjie; Tung, Anthony K. H.; Winslett, Marianne Source: Proceedings - International Conference on Data Engineering,  v 2015-May, p 113-124,  May 26, 2015,  2015 IEEE 31st International Conference on Data Engineering, ICDE 2015
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 12>
+Progressive online aggregation in a distributed stream system
+Yang, Dingyu (Department of Computer Science and Engineering, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang, Shanghai, China); Cao, Jian; Wu, Sai; Wang, Jie Source: Journal of Systems and Software,  v 102, p 146-157,  April 1, 2015
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 13>
+A GPU-accelerated highly compact and encoding based database system
+Luo, Xinyuan (College of Computer Science, Zhejiang University, Hangzhou, China); Chen, Gang; Wu, Sai Source: Jisuanji Yanjiu yu Fazhan/Computer Research and Development,  v 52, n 2, p 362-376,  February 1, 2015
+ Language: Chinese
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 14>
+KNN processing with co-space distance in SoLoMo systems
+Zhou, Xianke (College of Computer Science, Zhejiang University, Hangzhou 310027, China); Wu, Sai; Chen, Gang; Shou, Lidan Source: Expert Systems with Applications,  v 41, n 16, p 6967-6982,  November 15, 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 15>
+Real-time recommendation for microblogs
+Zhou, Xianke (College of Computer Science, Zhejiang University, Hangzhou 310027, China); Wu, Sai; Chen, Chun; Chen, Gang; Ying, Shanshan Source: Information Sciences,  v 279, p 301-325,  September 20, 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 16>
+K-Anonymity for Crowdsourcing Database
+Wu, Sai (College of Computer Science, Zhejiang University, Hangzhou, China); Wang, Xiaoli; Wang, Sheng; Zhang, Zhenjie; Tung, Anthony K.H. Source: IEEE Transactions on Knowledge and Data Engineering,  v 26, n 9, p 2207-2221,  September 1, 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 17>
+Automatic itinerary planning for traveling services
+Chen, Gang (College of Computer Science, Zhejiang University, Yuquan Campus, Zheda Road, Hangzhou, Zhejiang 310027, China); Wu, Sai; Zhou, Jingbo; Tung, Anthony K.H. Source: IEEE Transactions on Knowledge and Data Engineering,  v 26, n 3, p 514-527,  March 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 18>
+BestPeer++: A peer-to-peer based large-scale data processing platform
+Chen, Gang (College of Computer Science, Zhejiang University, Hangzhou 310027, China); Hu, Tianlei; Jiang, Dawei; Lu, Peng; Tan, Kian-Lee; Vo, Hoang Tam; Wu, Sai Source: IEEE Transactions on Knowledge and Data Engineering,  v 26, n 6, p 1316-1331,  June 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 19>
+ScalaGiST: Scalable generalized search trees for mapreduce systems [innovative systems paper]
+Lu, Peng (Zhejiang University, China); Chen, Gang; Ooi, Beng Chin; Vo, Hoang Tam; Wu, Sai Source: Proceedings of the VLDB Endowment,  v 7, n 14, p 1797-1808,  October 2014,  Proceedings of the 40th International Conference on Very Large Data Bases, VLDB 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 20>
+YZStack: Provisioning customizable solution for big data
+Wu, Sai (College of Computer Science and Technology, Zhejiang University, Hangzhou, China); Chen, Chun; Chen, Gang; Chen, Ke; Shou, Lidan; Cao, Hui; Bai, He Source: Proceedings of the VLDB Endowment,  v 7, n 13, p 1778-1783,  2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 21>
+Distributed data management using mapreduce
+Li, Feng (School of Computing, National University of Singapore, Singapore, Singapore); Ooi, Beng Chin; O&die;zsu, M. Tamer; Wu, Sai Source: ACM Computing Surveys,  v 46, n 3,  January 2014
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 22>
+The Knowing Camera 2: Recognizing and annotating places-of-interest in smartphone photos
+Peng, Pai (State Key Lab of CAD and CG, Zhejiang University, Hangzhou, China); Shou, Lidan; Chen, Ke; Chen, Gang; Wu, Sai Source: SIGIR 2014 - Proceedings of the 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, p 707-716,  2014,  SIGIR 2014 - Proceedings of the 37th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 23>
+The knowing camera: Recognizing places-of-interest in smartphone photos
+Peng, Pai (State Key Lab. of CAD and CG, China); Shou, Lidan; Chen, Ke; Chen, Gang; Wu, Sai Source: SIGIR 2013 - Proceedings of the 36th International ACM SIGIR Conference on Research and Development in Information Retrieval, p 969-972,  2013,  SIGIR 2013 - Proceedings of the 36th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 24>
+Crowd-answering system via microblogging
+Zhou, Xianke (College of Computer Science, Zhejiang University, Hangzhou, 310027, China); Chen, Ke; Wu, Sai; Zhang, Bingbing Source: Proceedings - International Conference on Data Engineering, p 1284-1287,  2013,  ICDE 2013 - 29th International Conference on Data Engineering
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 25>
+An efficient and compact indexing scheme for large-scale data store
+Lu, Peng (School of Computing, National University of Singapore, Com 1, 13 Computing Drive, Singapore, 117417, Singapore); Wu, Sai; Shou, Lidan; Tan, Kian-Lee Source: Proceedings - International Conference on Data Engineering, p 326-337,  2013,  ICDE 2013 - 29th International Conference on Data Engineering
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 26>
+Parallelizing stateful operators in a distributed stream processing system: How, should you and how much?
+Wu, Sai (College of Computer Science, Zhejiang University, Hangzhou, 310027, China); Kumar, Vibhore; Wu, Kun-Lung; Ooi, Beng Chin Source: Proceedings of the 6th ACM International Conference on Distributed Event-Based Systems, DEBS'12, p 278-289,  2012,  Proceedings of the 6th ACM International Conference on Distributed Event-Based Systems, DEBS'12
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 27>
+Cross domain search by exploiting Wikipedia
+Liu, Chen (School of Computing, National University of Singapore, 13 Computing Drive, 117417, Singapore, Singapore); Wu, Sai; Jiang, Shouxu; Tung, Anthony K.H. Source: Proceedings - International Conference on Data Engineering, p 546-557,  2012,  Proceedings - IEEE 28th International Conference on Data Engineering, ICDE 2012
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 28>
+BestPeer++: A peer-to-peer based large-scale data processing platform
+Chen, Gang (NetEase.com Inc., China); Hu, Tianlei; Jiang, Dawei; Lu, Peng; Tan, Kian-Lee; Vo, Hoang Tam; Wu, Sai Source: Proceedings - International Conference on Data Engineering, p 582-593,  2012,  Proceedings - IEEE 28th International Conference on Data Engineering, ICDE 2012
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 29>
+CDAS: A crowdsourcing data analytics system
+Liu, Xuan (School of Computing, National University of Singapore, Singapore); Lu, Meiyu; Ooi, Beng Chin; Shen, Yanyan; Wu, Sai; Zhang, Meihui Source: Proceedings of the VLDB Endowment,  v 5, n 10, p 1040-1051,  June 2012
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 30>
+GDMM 2012 workshop organizers' message
+Gu, Yu (Northeastern University, Shenyang, China); Wu, Sai; Jiang, Dawei Source: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),  v 7419 LNCS, p XX,  2012,  Web-Age Information Management - WAIM 2012 International Workshops: GDMM, IWSN, MDSP, USDM, and XMLDM, Proceedings
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 31>
+Query optimization for massively parallel data processing
+Wu, Sai (School of Computing, National University of Singapore, Singapore, 117590, Singapore); Li, Feng; Mehrotra, Sharad; Ooi, Beng Chin Source: Proceedings of the 2nd ACM Symposium on Cloud Computing, SOCC 2011,  2011,  Proceedings of the 2nd ACM Symposium on Cloud Computing, SOCC 2011
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 32>
+Approximate aggregations in structured P2P networks
+Sun, Dalie (Department of Computer Science and Technology, Harbin Institute of Technology, 92 West Da Zhi St., Harbin, Heilongjiang 150001, China); Wu, Sai; Jiang, Shouxu; Li, Jianzhong Source: IEEE Transactions on Knowledge and Data Engineering,  v 23, n 11, p 1748-1752,  2011
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 33>
+Evaluating large graph processing in MapReduce based on message passing
+Pan, Wei (School of Computer Science and Technology, Northwestern Polytechnical University, Xi'an 710072, China); Li, Zhan-Huai; Wu, Sai; Chen, Qun Source: Jisuanji Xuebao/Chinese Journal of Computers,  v 34, n 10, p 1768-1784,  October 2011
+ Language: Chinese
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 34>
+A Framework for supporting DBMS-like indexes in the cloud
+Chen, Gang (Zhejiang University, China); Vo, Hoang Tam; Wu, Sai; Ooi, Beng Chin; O&die;zsu, M. Tamer Source: Proceedings of the VLDB Endowment,  v 4, n 11, p 702-713,  August 2011
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 35>
+TI: An efficient indexing mechanism for real-time search on tweets
+Chen, Chun (College of Computer Science, Zhejiang University, Hangzhou, China); Li, Feng; Ooi, Beng Chin; Wu, Sai Source: Proceedings of the ACM SIGMOD International Conference on Management of Data, p 649-660,  2011,  Proceedings of SIGMOD 2011 and PODS 2011
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 36>
+Llama: Leveraging columnar storage for scalable join processing in the MapReduce framework
+Lin, Yuting (National University of Singapore, Singapore, Singapore); Agrawal, Divyakant; Chen, Chun; Ooi, Beng Chin; Wu, Sai Source: Proceedings of the ACM SIGMOD International Conference on Management of Data, p 961-972,  2011,  Proceedings of SIGMOD 2011 and PODS 2011
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 37>
+ES<sup>2</sup>: A cloud data storage system for supporting both OLTP and OLAP
+Cao, Yu (School of Computing, National University of Singapore, Singapore, Singapore); Chen, Chun; Guo, Fei; Jiang, Dawei; Lin, Yuting; Ooi, Beng Chin; Vo, Hoang Tam; Wu, Sai; Xu, Quanqing Source: Proceedings - International Conference on Data Engineering, p 291-302,  2011,  2011 IEEE 27th International Conference on Data Engineering, ICDE 2011
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 38>
+Providing scalable database services on the cloud
+Chen, Chun (National University of Singapore, Singapore); Chen, Gang; Jiang, Dawei; Ooi, Beng Chin; Vo, Hoang Tam; Wu, Sai; Xu, Quanqing Source: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),  v 6488 LNCS, p 1-19,  2010,  Web Information Systems Engineering, WISE 2010 - 11th International Conference, Proceedings
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 39>
+The performance of mapreduce: An indepth study
+Jiang, Dawei (School of Computing, National University of Singapore, Singapore); Ooi, Beng Chin; Shi, Lei; Wu, Sai Source: Proceedings of the VLDB Endowment,  v 3, n 1, p 472-483,  September 2010
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 40>
+Efficient btree based indexing for cloud data processing
+Wu, Sai (School of Computing, National University of Singapore, Singapore); Jiang, Dawei; Ooi, Beng Chin; Wu, Kunlung Source: Proceedings of the VLDB Endowment,  v 3, n 1, p 1207-1218,  September 2010
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 41>
+Continuous sampling for online aggregation over multiple queries
+Wu, Sai (School of Computing, National University of Singapore, Singapore, 117417, Singapore); Ooi, Beng Chin; Tan, Kian-Lee Source: Proceedings of the ACM SIGMOD International Conference on Management of Data, p 651-662,  2010,  Proceedings of the 2010 International Conference on Management of Data, SIGMOD '10
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 42>
+Indexing multi-dimensional data in a cloud system
+Wang, Jinbao (School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China); Wu, Sai; Gao, Hong; Li, Jianzhong; Ooi, Beng Chin Source: Proceedings of the ACM SIGMOD International Conference on Management of Data, p 591-602,  2010,  Proceedings of the 2010 International Conference on Management of Data, SIGMOD '10
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 43>
+Distributed online aggregations
+Wu, Sai (School of Computing, National University of Singapore, Singapore, 117590, Singapore); Jiang, Shouxu; Ooi, Beng Chin; Tan, Kian Lee Source: Proceedings of the VLDB Endowment,  v 2, n 1, p 443-454,  2009
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 44>
+Adaptive multi-join query processing in PDBMS
+Wu, Sai (School of Computing, National University of Singapore, Singapore, Singapore); Vu, Quang Hieu; Li, Jianzhong; Tan, Kian-Lee Source: Proceedings - International Conference on Data Engineering, p 1239-1242,  2009,  Proceedings - 25th IEEE International Conference on Data Engineering, ICDE 2009
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 45>
+Skyline-join in distributed databases
+Sun, Dalie (Department of Computer Science and Technology, Harbin Institute of Technology, Harbin, China); Wu, Sai; Li, Jianzhong; Tung, Anthony K. H. Source: Proceedings - International Conference on Data Engineering, p 176-181,  2008,  Proceedings of the 2008 - IEEE 24th International Conference on Data Engineering Workshop, ICDE'08
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+<RECORD 46>
+Just-in-time query retrieval over partially indexed data on structured P2P overlays
+Wu, Sai (School of Computing, National University of Singapore, Singapore, Singapore); Li, Jianzhong; Ooi, Beng Chin; Tan, Kian-Lee Source: Proceedings of the ACM SIGMOD International Conference on Management of Data, p 279-290,  2008,  SIGMOD 2008: Proceedings of the ACM SIGMOD International Conference on Management of Data 2008
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2017 Elsevier Inc.
+
+

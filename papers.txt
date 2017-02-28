@@ -1,0 +1,46 @@
+#Targeted advertising in public transportation systems with quantitative evaluation
+#iGlasses: A novel recommendation system for best-fit glasses
+#LazyLSH: Approximate nearest neighbor search for multiple distance functions with a single index
+#Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases
+#Personal recommendation using deep recurrent neural networks in NetEase
+#KISS: Knowing Camera Prototype System for Recognizing and Annotating Places-of-Interest
+#epiC: an extensible and scalable system for processing Big Data
+#HM: A Column-Oriented MapReduce System on Hybrid Storage
+#Cross-scenario eyeglasses retrieval via Egypt model
+#Toward the new item problem: Context-enhanced event recommendation in event-based social networks
+#PABIRS: A data access middleware for distributed file systems
+#Progressive online aggregation in a distributed stream system
+#A GPU-accelerated highly compact and encoding based database system
+#KNN processing with co-space distance in SoLoMo systems
+#Real-time recommendation for microblogs
+#K-Anonymity for Crowdsourcing Database
+#Automatic itinerary planning for traveling services
+#BestPeer++: A peer-to-peer based large-scale data processing platform
+#ScalaGiST: Scalable generalized search trees for mapreduce systems [innovative systems paper]
+#YZStack: Provisioning customizable solution for big data
+#Distributed data management using mapreduce
+#The Knowing Camera 2: Recognizing and annotating places-of-interest in smartphone photos
+#The knowing camera: Recognizing places-of-interest in smartphone photos
+#Crowd-answering system via microblogging
+#An efficient and compact indexing scheme for large-scale data store
+#Parallelizing stateful operators in a distributed stream processing system: How, should you and how much?
+#Cross domain search by exploiting Wikipedia
+#BestPeer++: A peer-to-peer based large-scale data processing platform
+#CDAS: A crowdsourcing data analytics system
+#GDMM 2012 workshop organizers' message
+#Query optimization for massively parallel data processing
+#Approximate aggregations in structured P2P networks
+#Evaluating large graph processing in MapReduce based on message passing
+#A Framework for supporting DBMS-like indexes in the cloud
+#TI: An efficient indexing mechanism for real-time search on tweets
+#Llama: Leveraging columnar storage for scalable join processing in the MapReduce framework
+#ES<sup>2</sup>: A cloud data storage system for supporting both OLTP and OLAP
+#Providing scalable database services on the cloud
+#The performance of mapreduce: An indepth study
+#Efficient btree based indexing for cloud data processing
+#Continuous sampling for online aggregation over multiple queries
+#Indexing multi-dimensional data in a cloud system
+Distributed online aggregations
+Adaptive multi-join query processing in PDBMS
+Skyline-join in distributed databases
+Just-in-time query retrieval over partially indexed data on structured P2P overlays
