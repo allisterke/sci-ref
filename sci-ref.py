@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -70,21 +72,30 @@ def check(paper):
     td = tr.find_elements_by_tag_name('td')
 
     td[1].find_elements_by_tag_name('span')[2].click()
-    author = td[1].find_elements_by_tag_name('span')[1].text
+    author = td[1].find_elements_by_tag_name('span')[1].text.strip()
 
-    title = td[2].find_element_by_xpath('span[2]/span').text
-    full_title = td[2].find_element_by_xpath('span[2]').text
-    year = td[3].text
-    volume = td[4].text
-    season = td[5].text
-    page = td[6].text
+#     title = td[2].find_element_by_xpath('span[2]/span').text
+    full_title = td[2].find_element_by_xpath('span[2]').text.strip()
+    if full_title.find(u'标题') >= 0:
+        full_title = full_title[:full_title.find(u'标题')]
+        full_title = full_title.strip()
+    year = td[3].text.strip()
+    volume = td[4].text.strip()
+    season = td[5].text.strip()
+    page = td[6].text.strip()
     
-    print author
-    print title
-    print year
-    print volume
-    print season
-    print page
+#     print title
+    
+    from_header = [u'来源', u'卷', u'期', u'页', u'出版年']
+    from_var = [full_title, volume, season, page, year]
+    
+    detail = u''
+    for header, var in zip(from_header, from_var):
+        if var:
+            detail += header + ': ' + var + ' '
+    print u'标题: ' + paper
+    print u'作者: ' + author
+    print detail
 
     # driver.find_elements_by_name('Select All')[0].click()
     # time.sleep(3)
@@ -104,6 +115,8 @@ def check(paper):
             break
         except:
             time.sleep(1)
+    
+    print u'该文共被引用%d次，其中他人引用%d次' % (total_cites, total_cites)
 
     # # select all page
     # # driver.find_elements_by_class_name('page-options-inner-left')[0].find_element_by_xpath('ul/li/input').click()
@@ -140,12 +153,19 @@ def check(paper):
                 record = driver.find_element_by_id('RECORD_' + str(index)).find_element_by_xpath('div[3]');
             except:
                 break
-            t = record.find_element_by_xpath('div[1]').text
-            a = record.find_element_by_xpath('div[2]').text
-            j = record.find_element_by_xpath('div[3]').text
+            
+            while True:
+                record = driver.find_element_by_id('RECORD_' + str(index)).find_element_by_xpath('div[3]');
+                t = record.find_element_by_xpath('div[1]').text.strip()
+                a = record.find_element_by_xpath('div[2]').text.strip()
+                j = record.find_element_by_xpath('div[3]').text.strip()
+                if not t or not a or not j:
+                    time.sleep(1)
+                else:
+                    break
 
-            print index
-            print t
+#             print index
+            print u'标题:', t
             print a
             j = j.replace('\n', '')
             j = re.sub(r'\s+', ' ', j);
@@ -159,12 +179,13 @@ def check(paper):
     driver.quit()
 
 # check('Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases')
-check('Distributed online aggregations')
+# check("Competence-Based Song Recommendation: Matching Songs to One's Singing Skill")
 
-# with open('papers.txt') as f:
-#     for paper in f:
-#         if not paper.startswith('#'):
-#             check(paper[:-1])
+with open('papers.txt') as f:
+    for paper in f:
+        if not paper.startswith('#'):
+            check(paper[:-1])
+            print ''
 
 #check('Targeted advertising in public transportation systems with quantitative evaluation')
 
