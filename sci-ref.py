@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -62,7 +66,7 @@ def check(paper):
             time.sleep(1)
 
     if empty:
-        print 'no result for "%s"' % paper
+#        print 'no result for "%s"' % paper
         driver.quit()
         return
 
@@ -116,7 +120,7 @@ def check(paper):
         except:
             time.sleep(1)
     
-    print u'该文共被引用%d次，其中他人引用%d次' % (total_cites, total_cites)
+    print u'该文共被引用%d次' % (total_cites, )
 
     # # select all page
     # # driver.find_elements_by_class_name('page-options-inner-left')[0].find_element_by_xpath('ul/li/input').click()
@@ -173,7 +177,7 @@ def check(paper):
 
             index += 1
 
-        if index < total_cites:
+        if index <= total_cites:
             driver.find_element_by_class_name('paginationNext').click()
 
     driver.quit()
