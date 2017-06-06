@@ -99,7 +99,7 @@ def check(paper):
             detail += header + ': ' + var + ' '
     print u'标题: ' + paper
     print u'作者: ' + author
-    print detail
+    print re.sub(r'\s+', ' ', detail)
 
     # driver.find_elements_by_name('Select All')[0].click()
     # time.sleep(3)
