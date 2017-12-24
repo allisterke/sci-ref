@@ -9,6 +9,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 import re
 
+debug = False
+
 def check(paper):
     driver = webdriver.Firefox()
     driver.get('http://apps.webofknowledge.com/')
@@ -20,25 +22,23 @@ def check(paper):
     driver.get('http://apps.webofknowledge.com/WOS_CitedReferenceSearch_input.do?locale=zh_CN&errorKey=&viewType=input&product=WOS&search_mode=CitedReferenceSearch&' + sid)
 
     driver.find_element_by_class_name('settings-item').find_element_by_xpath('h4').click()
-    try:
-        cbs = driver.find_elements_by_xpath('//input[@type="checkbox" and @name="editions"]')
-        if not cbs[0].is_selected():
-            cbs[0].click()
-        for cb in cbs[1:]:
-            if cb.is_selected():
-                cb.click()
-    except:
-        pass
+    # try:
+    #     cbs = driver.find_elements_by_xpath('//input[@type="checkbox" and @name="editions"]')
+    #     if not cbs[0].is_selected():
+    #         cbs[0].click()
+    #     for cb in cbs[1:]:
+    #         if cb.is_selected():
+    #             cb.click()
+    # except:
+    #     pass
+
 
 
     # input paper title
-
-    driver.find_element_by_id('s2id_select1').click()
-    driver.find_element_by_id('select2-results-1').find_elements_by_tag_name('li')[-1].click()
-
+    driver.find_element_by_id('select2-select1-container').click()
+    driver.find_element_by_id('select2-select1-results').find_elements_by_tag_name('li')[-1].click()
     driver.find_element_by_id('value(input1)').click()
     driver.find_element_by_id('value(input1)').clear()
-
 #     s = unicode('Distributed data management using mapreduce')
     s = unicode(paper)
     driver.find_element_by_id('value(input1)').send_keys(s)
@@ -67,7 +67,8 @@ def check(paper):
 
     if empty:
 #        print 'no result for "%s"' % paper
-        driver.quit()
+        if not debug:
+            driver.quit()
         return
 
     table = driver.find_element_by_id('records_chunks')
@@ -180,7 +181,8 @@ def check(paper):
         if index <= total_cites:
             driver.find_element_by_class_name('paginationNext').click()
 
-    driver.quit()
+    if not debug:
+        driver.quit()
 
 # check('Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases')
 # check("Competence-Based Song Recommendation: Matching Songs to One's Singing Skill")
